@@ -1,1 +1,1 @@
-# DBMS-Mini-Project
+#DBMS-Car-Rental-Management-System
